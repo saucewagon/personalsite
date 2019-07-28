@@ -1,0 +1,23 @@
+{
+  "name": "personalsite",
+  "version": "1.0.0",
+  "description": "Personal site for Alex Steel",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saucewagon/personalsite.git"
+  },
+  "author": "Alex Steel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saucewagon/personalsite/issues"
+  },
+  "homepage": "https://github.com/saucewagon/personalsite#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  }
+}
